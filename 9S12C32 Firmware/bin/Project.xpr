@@ -1,0 +1,3 @@
+Data:1 < ADDXPR ONLY_ADD_IF_NEW "main.c::_PORTAB"
+Data:1 < ADDXPR ONLY_ADD_IF_NEW "main.c::_SPIBR"
+Data:1 < ADDXPR ONLY_ADD_IF_NEW "main.c::_SPIDR.Byte"
